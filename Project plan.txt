@@ -3,3 +3,6 @@ Add deployment to helm chart
 Setup jenkins using 1 click
 Write pipeline and healthcheck
 Monitoring and Alerting
+
+
+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 - minikube
